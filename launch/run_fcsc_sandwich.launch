@@ -1,0 +1,21 @@
+<launch>
+
+  <node
+      name="fcsc_sandwich_node"
+      pkg="fcsc"
+      type="fcsc_sandwich_server.py"
+      />
+
+  <node
+      name="sandwich_pose_node"
+      pkg="fcsc"
+      type="sandwich_pose_node"
+      />
+
+  <node
+      name="image_assembly_node"
+      pkg="fcsc"
+      type="image_assembly_server.py"
+      />
+
+</launch>

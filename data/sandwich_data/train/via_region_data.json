@@ -1,0 +1,8306 @@
+{
+  "3a1930851bd0ca37d3ce3aa05050454bb9c25f95.25.2.2.2.jpg89121": {
+    "filename": "3a1930851bd0ca37d3ce3aa05050454bb9c25f95.25.2.2.2.jpg",
+    "size": 89121,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            45,
+            52,
+            424,
+            438,
+            470,
+            45
+          ],
+          "all_points_y": [
+            0,
+            639,
+            639,
+            555,
+            0,
+            0
+          ]
+        },
+        "region_attributes": null
+      }
+    ],
+    "file_attributes": null
+  },
+  "640x640_rect_40104118.jpg134502": {
+    "filename": "640x640_rect_40104118.jpg",
+    "size": 134502,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            60,
+            289,
+            303,
+            320,
+            339,
+            359,
+            367,
+            377,
+            364,
+            338,
+            293,
+            155,
+            134,
+            110,
+            100,
+            69
+          ],
+          "all_points_y": [
+            38,
+            0,
+            0,
+            111,
+            158,
+            249,
+            343,
+            350,
+            543,
+            560,
+            566,
+            566,
+            470,
+            270,
+            163,
+            70
+          ]
+        },
+        "region_attributes": null
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            373,
+            639,
+            615,
+            613,
+            607,
+            582,
+            572,
+            548,
+            440,
+            378,
+            380,
+            379
+          ],
+          "all_points_y": [
+            4,
+            9,
+            135,
+            231,
+            293,
+            479,
+            553,
+            560,
+            553,
+            540,
+            323,
+            194
+          ]
+        },
+        "region_attributes": null
+      }
+    ],
+    "file_attributes": null
+  },
+  "3954ed6d96e4cec946dba9772afcae0e3d9ac18f.21.2.9.2.jpeg10755": {
+    "filename": "3954ed6d96e4cec946dba9772afcae0e3d9ac18f.21.2.9.2.jpeg",
+    "size": 10755,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            189,
+            239,
+            280,
+            270,
+            274,
+            255,
+            204,
+            195
+          ],
+          "all_points_y": [
+            45,
+            38,
+            39,
+            188,
+            205,
+            211,
+            206,
+            128
+          ]
+        },
+        "region_attributes": null
+      }
+    ],
+    "file_attributes": null
+  },
+  "67481a99e42005e0d7ccfc2bcaac5db4.jpg81500": {
+    "filename": "67481a99e42005e0d7ccfc2bcaac5db4.jpg",
+    "size": 81500,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            60,
+            217,
+            223,
+            215,
+            38,
+            47
+          ],
+          "all_points_y": [
+            38,
+            35,
+            161,
+            393,
+            386,
+            188
+          ]
+        },
+        "region_attributes": null
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            259,
+            422,
+            407,
+            399,
+            387,
+            219,
+            231,
+            245
+          ],
+          "all_points_y": [
+            27,
+            41,
+            117,
+            213,
+            384,
+            365,
+            219,
+            127
+          ]
+        },
+        "region_attributes": null
+      }
+    ],
+    "file_attributes": null
+  },
+  "18012151_1977704795786689_1384411093580906496_n.jpg67606": {
+    "filename": "18012151_1977704795786689_1384411093580906496_n.jpg",
+    "size": 67606,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            422,
+            542,
+            605,
+            592,
+            579,
+            525,
+            463,
+            289,
+            351,
+            403,
+            417
+          ],
+          "all_points_y": [
+            70,
+            89,
+            103,
+            203,
+            270,
+            453,
+            547,
+            474,
+            316,
+            189,
+            139
+          ]
+        },
+        "region_attributes": null
+      }
+    ],
+    "file_attributes": null
+  },
+  "20120713.jpg113120": {
+    "filename": "20120713.jpg",
+    "size": 113120,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            500,
+            293,
+            129,
+            0,
+            0,
+            254,
+            327,
+            381
+          ],
+          "all_points_y": [
+            614,
+            717,
+            716,
+            447,
+            0,
+            1,
+            160,
+            296
+          ]
+        },
+        "region_attributes": null
+      }
+    ],
+    "file_attributes": null
+  },
+  "20170616_214857765_iOS.jpg232488": {
+    "filename": "20170616_214857765_iOS.jpg",
+    "size": 232488,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            127,
+            143,
+            126,
+            156,
+            493,
+            501,
+            489,
+            504
+          ],
+          "all_points_y": [
+            2,
+            176,
+            452,
+            729,
+            727,
+            437,
+            106,
+            5
+          ]
+        },
+        "region_attributes": null
+      }
+    ],
+    "file_attributes": null
+  },
+  "35001454_407533749744016_318735699199131648_n.jpg37761": {
+    "filename": "35001454_407533749744016_318735699199131648_n.jpg",
+    "size": 37761,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            3,
+            113,
+            180,
+            264,
+            285,
+            171,
+            73,
+            43,
+            0
+          ],
+          "all_points_y": [
+            131,
+            73,
+            208,
+            324,
+            387,
+            473,
+            408,
+            300,
+            221
+          ]
+        },
+        "region_attributes": null
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            132,
+            172,
+            256,
+            276,
+            319,
+            325,
+            259,
+            176,
+            145
+          ],
+          "all_points_y": [
+            8,
+            0,
+            1,
+            99,
+            241,
+            288,
+            311,
+            199,
+            128
+          ]
+        },
+        "region_attributes": null
+      }
+    ],
+    "file_attributes": null
+  },
+  "1509425750418.jpg43108": {
+    "filename": "1509425750418.jpg",
+    "size": 43108,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2,
+            138,
+            158,
+            179,
+            198,
+            29,
+            13,
+            1
+          ],
+          "all_points_y": [
+            56,
+            41,
+            143,
+            244,
+            371,
+            371,
+            286,
+            227
+          ]
+        },
+        "region_attributes": null
+      }
+    ],
+    "file_attributes": null
+  },
+  "20180329202514.jpg68325": {
+    "filename": "20180329202514.jpg",
+    "size": 68325,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            12,
+            127,
+            198,
+            221,
+            246,
+            259,
+            259,
+            111,
+            116,
+            107,
+            85,
+            75
+          ],
+          "all_points_y": [
+            309,
+            360,
+            291,
+            251,
+            187,
+            82,
+            1,
+            1,
+            43,
+            89,
+            137,
+            160
+          ]
+        },
+        "region_attributes": null
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            295,
+            281,
+            249,
+            197,
+            340,
+            383,
+            439,
+            460
+          ],
+          "all_points_y": [
+            2,
+            90,
+            177,
+            306,
+            360,
+            280,
+            109,
+            2
+          ]
+        },
+        "region_attributes": null
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            382,
+            536,
+            566,
+            606,
+            635,
+            468,
+            443,
+            412
+          ],
+          "all_points_y": [
+            316,
+            367,
+            259,
+            131,
+            0,
+            2,
+            96,
+            213
+          ]
+        },
+        "region_attributes": null
+      }
+    ],
+    "file_attributes": null
+  },
+  "20180623221316.jpg523628": {
+    "filename": "20180623221316.jpg",
+    "size": 523628,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            5,
+            143,
+            194,
+            271,
+            342,
+            458,
+            342,
+            225,
+            108,
+            3,
+            3
+          ],
+          "all_points_y": [
+            208,
+            166,
+            149,
+            249,
+            413,
+            683,
+            767,
+            766,
+            581,
+            384,
+            298
+          ]
+        },
+        "region_attributes": null
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            308,
+            343,
+            550,
+            563,
+            592,
+            608,
+            567,
+            427,
+            380,
+            348,
+            330
+          ],
+          "all_points_y": [
+            94,
+            76,
+            76,
+            172,
+            400,
+            530,
+            582,
+            606,
+            495,
+            301,
+            192
+          ]
+        },
+        "region_attributes": null
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            865,
+            1023,
+            1022,
+            876,
+            749,
+            682,
+            538,
+            761
+          ],
+          "all_points_y": [
+            131,
+            209,
+            423,
+            637,
+            767,
+            766,
+            631,
+            289
+          ]
+        },
+        "region_attributes": null
+      }
+    ],
+    "file_attributes": null
+  },
+  "CPzwz3wUkAEbClF.jpg90469": {
+    "filename": "CPzwz3wUkAEbClF.jpg",
+    "size": 90469,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            296,
+            244,
+            6,
+            6,
+            122,
+            341,
+            525,
+            727,
+            779,
+            723
+          ],
+          "all_points_y": [
+            -2,
+            246,
+            874,
+            920,
+            1019,
+            1021,
+            701,
+            316,
+            33,
+            0
+          ]
+        },
+        "region_attributes": null
+      }
+    ],
+    "file_attributes": null
+  },
+  "d0a8f26e.jpg113900": {
+    "filename": "d0a8f26e.jpg",
+    "size": 113900,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            180,
+            406,
+            470,
+            590,
+            581,
+            559,
+            548,
+            180,
+            174,
+            213,
+            217
+          ],
+          "all_points_y": [
+            17,
+            8,
+            0,
+            0,
+            286,
+            658,
+            908,
+            873,
+            790,
+            377,
+            201
+          ]
+        },
+        "region_attributes": null
+      }
+    ],
+    "file_attributes": null
+  },
+  "DEqN2F7UQAALqiU.jpg110245": {
+    "filename": "DEqN2F7UQAALqiU.jpg",
+    "size": 110245,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            85,
+            369,
+            373,
+            384,
+            144,
+            111
+          ],
+          "all_points_y": [
+            27,
+            35,
+            284,
+            497,
+            539,
+            231
+          ]
+        },
+        "region_attributes": null
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            376,
+            600,
+            579,
+            573,
+            592,
+            389,
+            379
+          ],
+          "all_points_y": [
+            37,
+            44,
+            237,
+            400,
+            492,
+            511,
+            181
+          ]
+        },
+        "region_attributes": null
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            603,
+            777,
+            756,
+            767,
+            592,
+            576,
+            583
+          ],
+          "all_points_y": [
+            41,
+            53,
+            307,
+            475,
+            492,
+            401,
+            252
+          ]
+        },
+        "region_attributes": null
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            777,
+            899,
+            911,
+            883,
+            876,
+            772,
+            757,
+            767
+          ],
+          "all_points_y": [
+            39,
+            53,
+            419,
+            441,
+            467,
+            472,
+            331,
+            235
+          ]
+        },
+        "region_attributes": null
+      }
+    ],
+    "file_attributes": null
+  },
+  "Dh7vssOUwAAT8I8.jpg146762": {
+    "filename": "Dh7vssOUwAAT8I8.jpg",
+    "size": 146762,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            447,
+            707,
+            748,
+            748,
+            760,
+            770,
+            797,
+            823,
+            377,
+            387,
+            405,
+            419
+          ],
+          "all_points_y": [
+            95,
+            143,
+            151,
+            291,
+            347,
+            403,
+            640,
+            898,
+            899,
+            625,
+            413,
+            290
+          ]
+        },
+        "region_attributes": null
+      }
+    ],
+    "file_attributes": null
+  },
+  "img002.jpg76315": {
+    "filename": "img002.jpg",
+    "size": 76315,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1,
+            24,
+            49,
+            75,
+            92,
+            102,
+            67,
+            54,
+            39,
+            21,
+            12,
+            1
+          ],
+          "all_points_y": [
+            32,
+            16,
+            40,
+            86,
+            119,
+            144,
+            167,
+            152,
+            132,
+            110,
+            94,
+            70
+          ]
+        },
+        "region_attributes": null
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            54,
+            98,
+            116,
+            128,
+            141,
+            143,
+            110,
+            90,
+            66
+          ],
+          "all_points_y": [
+            26,
+            6,
+            41,
+            69,
+            112,
+            125,
+            140,
+            110,
+            62
+          ]
+        },
+        "region_attributes": null
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            201,
+            236,
+            227,
+            215,
+            178,
+            145,
+            155,
+            167,
+            180
+          ],
+          "all_points_y": [
+            6,
+            20,
+            60,
+            86,
+            148,
+            126,
+            98,
+            62,
+            30
+          ]
+        },
+        "region_attributes": null
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            264,
+            294,
+            294,
+            282,
+            248,
+            220,
+            181,
+            194,
+            228,
+            241
+          ],
+          "all_points_y": [
+            25,
+            40,
+            74,
+            101,
+            148,
+            176,
+            149,
+            126,
+            68,
+            48
+          ]
+        },
+        "region_attributes": null
+      }
+    ],
+    "file_attributes": null
+  },
+  "IMG_8728.jpg61076": {
+    "filename": "IMG_8728.jpg",
+    "size": 61076,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            335,
+            243,
+            193,
+            164,
+            130,
+            130,
+            100,
+            168,
+            248,
+            262,
+            287,
+            335
+          ],
+          "all_points_y": [
+            414,
+            439,
+            440,
+            365,
+            250,
+            208,
+            144,
+            110,
+            93,
+            170,
+            209,
+            414
+          ]
+        },
+        "region_attributes": null
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            423,
+            485,
+            573,
+            540,
+            503,
+            436,
+            330,
+            398
+          ],
+          "all_points_y": [
+            119,
+            121,
+            139,
+            236,
+            319,
+            434,
+            387,
+            189
+          ]
+        },
+        "region_attributes": null
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            269,
+            393,
+            391,
+            393,
+            388,
+            375,
+            345,
+            299,
+            289,
+            266,
+            265,
+            265
+          ],
+          "all_points_y": [
+            1,
+            2,
+            70,
+            135,
+            213,
+            256,
+            254,
+            253,
+            213,
+            171,
+            103,
+            61
+          ]
+        },
+        "region_attributes": null
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            9,
+            105,
+            155,
+            175,
+            187,
+            168,
+            101,
+            131,
+            129,
+            147,
+            105,
+            78,
+            60
+          ],
+          "all_points_y": [
+            46,
+            17,
+            9,
+            67,
+            106,
+            109,
+            143,
+            209,
+            254,
+            310,
+            324,
+            259,
+            207
+          ]
+        },
+        "region_attributes": null
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            528,
+            585,
+            653,
+            605,
+            535,
+            519,
+            575,
+            486,
+            469,
+            489,
+            513
+          ],
+          "all_points_y": [
+            1,
+            17,
+            41,
+            169,
+            299,
+            289,
+            139,
+            121,
+            121,
+            76,
+            3
+          ]
+        },
+        "region_attributes": null
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich.jpg68325": {
+    "filename": "sandwich.jpg",
+    "size": 68325,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            13,
+            119,
+            117,
+            109,
+            256,
+            258,
+            249,
+            208,
+            125,
+            41
+          ],
+          "all_points_y": [
+            303,
+            53,
+            30,
+            0,
+            1,
+            73,
+            173,
+            279,
+            360,
+            319
+          ]
+        },
+        "region_attributes": null
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            295,
+            289,
+            261,
+            201,
+            198,
+            335,
+            383,
+            409,
+            449,
+            458,
+            403
+          ],
+          "all_points_y": [
+            2,
+            72,
+            150,
+            302,
+            305,
+            361,
+            283,
+            199,
+            76,
+            9,
+            3
+          ]
+        },
+        "region_attributes": null
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            385,
+            462,
+            539,
+            571,
+            609,
+            620,
+            637,
+            468,
+            458,
+            413,
+            395,
+            383
+          ],
+          "all_points_y": [
+            315,
+            340,
+            367,
+            251,
+            117,
+            69,
+            1,
+            0,
+            40,
+            200,
+            253,
+            306
+          ]
+        },
+        "region_attributes": null
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich2.jpg20072": {
+    "filename": "sandwich2.jpg",
+    "size": 20072,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            189,
+            226,
+            267,
+            258,
+            260,
+            262,
+            261,
+            215,
+            192,
+            187,
+            189
+          ],
+          "all_points_y": [
+            67,
+            66,
+            60,
+            101,
+            138,
+            170,
+            207,
+            206,
+            208,
+            168,
+            110
+          ]
+        },
+        "region_attributes": null
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich3.jpg374654": {
+    "filename": "sandwich3.jpg",
+    "size": 374654,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            23,
+            128,
+            229,
+            243,
+            276,
+            303,
+            343,
+            353,
+            160,
+            118,
+            78,
+            65,
+            41,
+            35
+          ],
+          "all_points_y": [
+            108,
+            89,
+            62,
+            199,
+            277,
+            386,
+            538,
+            617,
+            679,
+            586,
+            519,
+            435,
+            320,
+            250
+          ]
+        },
+        "region_attributes": null
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            240,
+            343,
+            437,
+            455,
+            492,
+            531,
+            562,
+            585,
+            403,
+            345,
+            296,
+            276,
+            274,
+            274
+          ],
+          "all_points_y": [
+            61,
+            30,
+            20,
+            69,
+            216,
+            365,
+            479,
+            566,
+            617,
+            534,
+            341,
+            224,
+            168,
+            148
+          ]
+        },
+        "region_attributes": null
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000005.png484953": {
+    "filename": "sandwich_bag1_000005.png",
+    "size": 484953,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            255,
+            289,
+            311,
+            230,
+            216,
+            257,
+            259,
+            249,
+            212,
+            215,
+            257,
+            255
+          ],
+          "all_points_y": [
+            91,
+            117,
+            279,
+            320,
+            291,
+            273,
+            263,
+            257,
+            260,
+            231,
+            123,
+            103
+          ]
+        },
+        "region_attributes": {
+          "class": "sandwich"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            292,
+            402,
+            410,
+            415,
+            411,
+            313,
+            313,
+            298
+          ],
+          "all_points_y": [
+            111,
+            101,
+            207,
+            283,
+            351,
+            359,
+            269,
+            159
+          ]
+        },
+        "region_attributes": {
+          "class": "sandwich"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            493,
+            555,
+            616,
+            620,
+            635,
+            615,
+            432,
+            439,
+            445,
+            465,
+            480
+          ],
+          "all_points_y": [
+            263,
+            281,
+            279,
+            315,
+            356,
+            479,
+            479,
+            392,
+            344,
+            323,
+            299
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000009.png498461": {
+    "filename": "sandwich_bag1_000009.png",
+    "size": 498461,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            290,
+            310,
+            324,
+            339,
+            273,
+            257,
+            262,
+            297,
+            295
+          ],
+          "all_points_y": [
+            93,
+            108,
+            162,
+            261,
+            293,
+            262,
+            240,
+            126,
+            107
+          ]
+        },
+        "region_attributes": {
+          "class": "sandwich"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            314,
+            405,
+            424,
+            429,
+            429,
+            340,
+            336,
+            340,
+            320
+          ],
+          "all_points_y": [
+            105,
+            84,
+            178,
+            222,
+            308,
+            323,
+            295,
+            253,
+            136
+          ]
+        },
+        "region_attributes": {
+          "class": "sandwich"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            440,
+            465,
+            513,
+            553,
+            634,
+            632,
+            587,
+            427,
+            432,
+            430,
+            431,
+            434
+          ],
+          "all_points_y": [
+            260,
+            250,
+            225,
+            234,
+            228,
+            279,
+            459,
+            437,
+            328,
+            321,
+            291,
+            270
+          ]
+        },
+        "region_attributes": {
+          "class": "sandwich"
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000010.png477057": {
+    "filename": "sandwich_bag1_000010.png",
+    "size": 477057,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            247,
+            264,
+            277,
+            282,
+            224,
+            210,
+            211,
+            235,
+            252,
+            251
+          ],
+          "all_points_y": [
+            10,
+            17,
+            94,
+            179,
+            202,
+            170,
+            158,
+            92,
+            30,
+            22
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            269,
+            357,
+            368,
+            373,
+            379,
+            374,
+            362,
+            284,
+            284,
+            281
+          ],
+          "all_points_y": [
+            14,
+            0,
+            1,
+            57,
+            106,
+            173,
+            228,
+            239,
+            202,
+            125
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            449,
+            509,
+            563,
+            548,
+            519,
+            478,
+            355,
+            369,
+            373,
+            383,
+            395,
+            418,
+            438,
+            441,
+            441
+          ],
+          "all_points_y": [
+            154,
+            167,
+            166,
+            232,
+            307,
+            377,
+            333,
+            210,
+            197,
+            191,
+            185,
+            185,
+            175,
+            169,
+            169
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000011.png492068": {
+    "filename": "sandwich_bag1_000011.png",
+    "size": 492068,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            253,
+            240,
+            245,
+            247,
+            249,
+            202,
+            205,
+            213,
+            267,
+            273,
+            273,
+            272,
+            260,
+            253,
+            250
+          ],
+          "all_points_y": [
+            62,
+            66,
+            83,
+            87,
+            93,
+            207,
+            230,
+            256,
+            240,
+            221,
+            153,
+            133,
+            99,
+            87,
+            77
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            261,
+            353,
+            355,
+            363,
+            359,
+            349,
+            346,
+            270,
+            272,
+            281,
+            279
+          ],
+          "all_points_y": [
+            94,
+            87,
+            156,
+            193,
+            239,
+            293,
+            301,
+            303,
+            243,
+            175,
+            163
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            431,
+            483,
+            532,
+            513,
+            479,
+            445,
+            335,
+            339,
+            346,
+            350,
+            360,
+            369,
+            401,
+            418
+          ],
+          "all_points_y": [
+            229,
+            247,
+            249,
+            319,
+            400,
+            457,
+            416,
+            364,
+            321,
+            297,
+            282,
+            279,
+            271,
+            261
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000012.png498592": {
+    "filename": "sandwich_bag1_000012.png",
+    "size": 498592,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            243,
+            252,
+            218,
+            223,
+            279,
+            280,
+            260,
+            261,
+            243
+          ],
+          "all_points_y": [
+            51,
+            86,
+            193,
+            244,
+            222,
+            141,
+            67,
+            37,
+            51
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            263,
+            361,
+            365,
+            372,
+            362,
+            357,
+            352,
+            275,
+            281,
+            289,
+            281
+          ],
+          "all_points_y": [
+            75,
+            65,
+            123,
+            171,
+            279,
+            285,
+            289,
+            295,
+            245,
+            169,
+            129
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            449,
+            505,
+            559,
+            522,
+            448,
+            333,
+            350,
+            359,
+            431,
+            439
+          ],
+          "all_points_y": [
+            217,
+            237,
+            243,
+            342,
+            477,
+            419,
+            296,
+            287,
+            255,
+            240
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000015.png498367": {
+    "filename": "sandwich_bag1_000015.png",
+    "size": 498367,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            215,
+            203,
+            203,
+            217,
+            219,
+            203,
+            216,
+            226,
+            280,
+            260,
+            235,
+            235,
+            249,
+            235,
+            221
+          ],
+          "all_points_y": [
+            59,
+            80,
+            91,
+            115,
+            127,
+            226,
+            271,
+            290,
+            259,
+            186,
+            132,
+            127,
+            125,
+            103,
+            77
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            236,
+            347,
+            371,
+            383,
+            389,
+            393,
+            300,
+            292,
+            280,
+            266
+          ],
+          "all_points_y": [
+            130,
+            101,
+            184,
+            216,
+            242,
+            343,
+            355,
+            282,
+            243,
+            205
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            473,
+            540,
+            606,
+            598,
+            572,
+            549,
+            403,
+            399,
+            395,
+            396,
+            409,
+            429
+          ],
+          "all_points_y": [
+            239,
+            254,
+            259,
+            336,
+            413,
+            479,
+            479,
+            436,
+            400,
+            389,
+            365,
+            327
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000016.png480826": {
+    "filename": "sandwich_bag1_000016.png",
+    "size": 480826,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            146,
+            139,
+            137,
+            149,
+            169,
+            175,
+            186,
+            211,
+            255,
+            226,
+            217,
+            183,
+            213,
+            195,
+            169,
+            156
+          ],
+          "all_points_y": [
+            57,
+            70,
+            81,
+            104,
+            123,
+            219,
+            245,
+            289,
+            251,
+            189,
+            177,
+            137,
+            120,
+            104,
+            83,
+            75
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            185,
+            236,
+            300,
+            327,
+            351,
+            362,
+            371,
+            391,
+            299,
+            277,
+            250,
+            231,
+            228
+          ],
+          "all_points_y": [
+            139,
+            113,
+            85,
+            135,
+            167,
+            189,
+            213,
+            320,
+            344,
+            282,
+            229,
+            190,
+            187
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            459,
+            526,
+            601,
+            605,
+            579,
+            421,
+            407,
+            405,
+            433
+          ],
+          "all_points_y": [
+            201,
+            207,
+            209,
+            304,
+            479,
+            479,
+            416,
+            383,
+            299
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000017.png466392": {
+    "filename": "sandwich_bag1_000017.png",
+    "size": 466392,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            153,
+            161,
+            185,
+            199,
+            249,
+            290,
+            211,
+            257,
+            198,
+            169,
+            156,
+            149
+          ],
+          "all_points_y": [
+            55,
+            74,
+            95,
+            189,
+            252,
+            212,
+            117,
+            91,
+            57,
+            41,
+            17,
+            44
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            269,
+            319,
+            336,
+            395,
+            415,
+            442,
+            345,
+            321,
+            295,
+            257,
+            217
+          ],
+          "all_points_y": [
+            83,
+            56,
+            50,
+            127,
+            177,
+            275,
+            313,
+            256,
+            215,
+            162,
+            117
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            509,
+            571,
+            639,
+            639,
+            605,
+            537,
+            488,
+            465,
+            483
+          ],
+          "all_points_y": [
+            151,
+            157,
+            151,
+            477,
+            473,
+            452,
+            449,
+            369,
+            283
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000018.png464653": {
+    "filename": "sandwich_bag1_000018.png",
+    "size": 464653,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            166,
+            200,
+            219,
+            272,
+            312,
+            270,
+            245,
+            299,
+            272,
+            228,
+            191,
+            169,
+            163
+          ],
+          "all_points_y": [
+            55,
+            99,
+            177,
+            249,
+            209,
+            163,
+            140,
+            107,
+            77,
+            57,
+            37,
+            15,
+            39
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            322,
+            337,
+            387,
+            429,
+            449,
+            457,
+            481,
+            428,
+            383,
+            359,
+            329,
+            285,
+            247,
+            306
+          ],
+          "all_points_y": [
+            97,
+            86,
+            65,
+            125,
+            149,
+            175,
+            284,
+            303,
+            313,
+            264,
+            222,
+            175,
+            142,
+            107
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            557,
+            638,
+            639,
+            527,
+            519,
+            532
+          ],
+          "all_points_y": [
+            155,
+            160,
+            477,
+            455,
+            399,
+            312
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000019.png465385": {
+    "filename": "sandwich_bag1_000019.png",
+    "size": 465385,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            157,
+            145,
+            148,
+            163,
+            202,
+            208,
+            277,
+            316,
+            277,
+            235,
+            273,
+            316,
+            299,
+            251,
+            212,
+            172
+          ],
+          "all_points_y": [
+            3,
+            32,
+            50,
+            79,
+            119,
+            159,
+            247,
+            209,
+            173,
+            149,
+            131,
+            106,
+            76,
+            59,
+            44,
+            29
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            393,
+            317,
+            238,
+            276,
+            320,
+            389,
+            487,
+            459,
+            439,
+            418
+          ],
+          "all_points_y": [
+            63,
+            106,
+            150,
+            172,
+            212,
+            305,
+            276,
+            156,
+            129,
+            110
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            567,
+            639,
+            639,
+            538,
+            529,
+            542,
+            548,
+            548,
+            565,
+            567
+          ],
+          "all_points_y": [
+            149,
+            147,
+            465,
+            450,
+            396,
+            341,
+            263,
+            233,
+            202,
+            194
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000020.png465614": {
+    "filename": "sandwich_bag1_000020.png",
+    "size": 465614,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            129,
+            149,
+            265,
+            283,
+            315,
+            221,
+            258,
+            289,
+            265,
+            185,
+            137,
+            122
+          ],
+          "all_points_y": [
+            21,
+            46,
+            73,
+            74,
+            125,
+            181,
+            196,
+            215,
+            241,
+            147,
+            90,
+            63
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            305,
+            369,
+            402,
+            437,
+            455,
+            478,
+            379,
+            333,
+            305,
+            277,
+            225,
+            257
+          ],
+          "all_points_y": [
+            133,
+            105,
+            139,
+            154,
+            199,
+            285,
+            314,
+            256,
+            224,
+            203,
+            182,
+            162
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            558,
+            639,
+            639,
+            581,
+            523,
+            509,
+            523,
+            531,
+            538
+          ],
+          "all_points_y": [
+            157,
+            156,
+            477,
+            467,
+            452,
+            414,
+            360,
+            296,
+            243
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000021.png474881": {
+    "filename": "sandwich_bag1_000021.png",
+    "size": 474881,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            71,
+            95,
+            183,
+            233,
+            269,
+            169,
+            220,
+            245,
+            225,
+            96,
+            69,
+            65,
+            63,
+            63
+          ],
+          "all_points_y": [
+            17,
+            39,
+            56,
+            63,
+            113,
+            173,
+            180,
+            209,
+            233,
+            109,
+            70,
+            59,
+            36,
+            35
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            309,
+            343,
+            388,
+            386,
+            401,
+            431,
+            341,
+            282,
+            248,
+            225,
+            223,
+            173,
+            253
+          ],
+          "all_points_y": [
+            95,
+            125,
+            133,
+            152,
+            174,
+            261,
+            293,
+            235,
+            207,
+            183,
+            177,
+            173,
+            129
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            503,
+            595,
+            639,
+            633,
+            608,
+            545,
+            492,
+            463,
+            475,
+            480,
+            485,
+            488
+          ],
+          "all_points_y": [
+            137,
+            132,
+            133,
+            417,
+            441,
+            430,
+            424,
+            381,
+            339,
+            296,
+            234,
+            207
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000022.png477158": {
+    "filename": "sandwich_bag1_000022.png",
+    "size": 477158,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            49,
+            73,
+            163,
+            213,
+            243,
+            151,
+            182,
+            198,
+            230,
+            210,
+            115,
+            78,
+            46,
+            43
+          ],
+          "all_points_y": [
+            13,
+            33,
+            53,
+            60,
+            107,
+            164,
+            177,
+            177,
+            205,
+            229,
+            140,
+            104,
+            65,
+            39
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            286,
+            316,
+            363,
+            369,
+            366,
+            376,
+            406,
+            316,
+            289,
+            198,
+            182,
+            153,
+            216,
+            249
+          ],
+          "all_points_y": [
+            92,
+            120,
+            129,
+            133,
+            143,
+            163,
+            256,
+            289,
+            253,
+            177,
+            177,
+            165,
+            124,
+            106
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            471,
+            547,
+            597,
+            639,
+            625,
+            606,
+            577,
+            509,
+            465,
+            440,
+            450,
+            460
+          ],
+          "all_points_y": [
+            130,
+            123,
+            125,
+            131,
+            241,
+            404,
+            430,
+            413,
+            410,
+            367,
+            322,
+            234
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000023.png479309": {
+    "filename": "sandwich_bag1_000023.png",
+    "size": 479309,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            23,
+            43,
+            185,
+            226,
+            133,
+            166,
+            173,
+            200,
+            181,
+            76,
+            28,
+            16,
+            19
+          ],
+          "all_points_y": [
+            3,
+            22,
+            50,
+            107,
+            167,
+            172,
+            172,
+            196,
+            219,
+            123,
+            71,
+            47,
+            23
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            219,
+            269,
+            305,
+            323,
+            343,
+            343,
+            356,
+            382,
+            292,
+            269,
+            175,
+            133,
+            189
+          ],
+          "all_points_y": [
+            114,
+            92,
+            121,
+            120,
+            131,
+            147,
+            165,
+            247,
+            282,
+            253,
+            173,
+            167,
+            132
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            451,
+            535,
+            601,
+            591,
+            588,
+            573,
+            547,
+            475,
+            433,
+            419,
+            427,
+            429,
+            435
+          ],
+          "all_points_y": [
+            130,
+            129,
+            134,
+            239,
+            286,
+            384,
+            413,
+            397,
+            401,
+            364,
+            320,
+            245,
+            205
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000025.png473035": {
+    "filename": "sandwich_bag1_000025.png",
+    "size": 473035,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            116,
+            145,
+            165,
+            183,
+            240,
+            295,
+            285,
+            229,
+            249,
+            250,
+            219,
+            193,
+            145,
+            137,
+            120,
+            111,
+            113
+          ],
+          "all_points_y": [
+            19,
+            24,
+            30,
+            36,
+            47,
+            136,
+            169,
+            196,
+            201,
+            205,
+            225,
+            201,
+            144,
+            109,
+            79,
+            53,
+            39
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            331,
+            409,
+            419,
+            435,
+            430,
+            335,
+            328,
+            323,
+            263,
+            233,
+            293
+          ],
+          "all_points_y": [
+            157,
+            132,
+            164,
+            175,
+            274,
+            301,
+            289,
+            271,
+            201,
+            195,
+            172
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            525,
+            595,
+            639,
+            636,
+            623,
+            533,
+            465,
+            477,
+            488,
+            497
+          ],
+          "all_points_y": [
+            167,
+            169,
+            177,
+            355,
+            433,
+            434,
+            417,
+            353,
+            277,
+            232
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000026.png462388": {
+    "filename": "sandwich_bag1_000026.png",
+    "size": 462388,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            167,
+            156,
+            227,
+            270,
+            295,
+            313,
+            261,
+            215,
+            188
+          ],
+          "all_points_y": [
+            29,
+            143,
+            232,
+            203,
+            184,
+            144,
+            53,
+            42,
+            33
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            331,
+            358,
+            426,
+            438,
+            473,
+            465,
+            447,
+            346,
+            329,
+            307,
+            285,
+            306
+          ],
+          "all_points_y": [
+            187,
+            163,
+            159,
+            171,
+            165,
+            209,
+            297,
+            314,
+            253,
+            229,
+            222,
+            207
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            553,
+            515,
+            499,
+            465,
+            551,
+            639,
+            639,
+            619
+          ],
+          "all_points_y": [
+            193,
+            250,
+            297,
+            437,
+            459,
+            460,
+            205,
+            201
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000027.png454333": {
+    "filename": "sandwich_bag1_000027.png",
+    "size": 454333,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            218,
+            203,
+            193,
+            180,
+            143,
+            212,
+            283,
+            306,
+            320,
+            317,
+            273,
+            247,
+            236,
+            216
+          ],
+          "all_points_y": [
+            5,
+            13,
+            39,
+            57,
+            139,
+            243,
+            207,
+            231,
+            206,
+            153,
+            57,
+            47,
+            42,
+            29
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            338,
+            415,
+            431,
+            475,
+            522,
+            481,
+            431,
+            335,
+            325,
+            330,
+            317,
+            335
+          ],
+          "all_points_y": [
+            193,
+            183,
+            187,
+            216,
+            212,
+            242,
+            324,
+            335,
+            315,
+            283,
+            245,
+            199
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            553,
+            509,
+            437,
+            462,
+            623,
+            632,
+            639,
+            638,
+            601,
+            600
+          ],
+          "all_points_y": [
+            231,
+            280,
+            462,
+            479,
+            479,
+            334,
+            323,
+            255,
+            242,
+            242
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000028.png455775": {
+    "filename": "sandwich_bag1_000028.png",
+    "size": 455775,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            183,
+            129,
+            141,
+            197,
+            263,
+            312,
+            318,
+            285,
+            269,
+            229
+          ],
+          "all_points_y": [
+            1,
+            129,
+            156,
+            231,
+            194,
+            152,
+            143,
+            77,
+            50,
+            1
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            321,
+            406,
+            457,
+            528,
+            482,
+            455,
+            431,
+            321,
+            319,
+            313
+          ],
+          "all_points_y": [
+            169,
+            143,
+            131,
+            121,
+            186,
+            253,
+            305,
+            324,
+            233,
+            199
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            539,
+            579,
+            639,
+            639,
+            533,
+            446,
+            463,
+            491,
+            505
+          ],
+          "all_points_y": [
+            201,
+            203,
+            220,
+            471,
+            476,
+            461,
+            380,
+            296,
+            256
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000029.png414328": {
+    "filename": "sandwich_bag1_000029.png",
+    "size": 414328,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            219,
+            217,
+            203,
+            163,
+            139,
+            160,
+            205,
+            270,
+            289,
+            321,
+            326,
+            291,
+            266
+          ],
+          "all_points_y": [
+            31,
+            57,
+            77,
+            151,
+            205,
+            250,
+            303,
+            263,
+            233,
+            202,
+            185,
+            143,
+            107
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            336,
+            452,
+            516,
+            477,
+            442,
+            331,
+            325,
+            322,
+            319,
+            325
+          ],
+          "all_points_y": [
+            197,
+            159,
+            151,
+            220,
+            361,
+            392,
+            322,
+            290,
+            260,
+            236
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            513,
+            586,
+            639,
+            639,
+            473,
+            483,
+            491
+          ],
+          "all_points_y": [
+            253,
+            259,
+            273,
+            477,
+            479,
+            396,
+            337
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000030.png436343": {
+    "filename": "sandwich_bag1_000030.png",
+    "size": 436343,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            137,
+            179,
+            239,
+            247,
+            250,
+            160,
+            105,
+            86,
+            107
+          ],
+          "all_points_y": [
+            41,
+            87,
+            139,
+            150,
+            226,
+            313,
+            260,
+            224,
+            153
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            255,
+            312,
+            359,
+            416,
+            401,
+            297,
+            276,
+            255
+          ],
+          "all_points_y": [
+            149,
+            126,
+            104,
+            93,
+            349,
+            383,
+            297,
+            222
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            462,
+            535,
+            596,
+            605,
+            639,
+            637,
+            450,
+            453,
+            456
+          ],
+          "all_points_y": [
+            227,
+            234,
+            240,
+            309,
+            426,
+            477,
+            479,
+            390,
+            326
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000031.png436019": {
+    "filename": "sandwich_bag1_000031.png",
+    "size": 436019,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            117,
+            133,
+            208,
+            222,
+            233,
+            188,
+            139,
+            70,
+            87,
+            108,
+            113
+          ],
+          "all_points_y": [
+            29,
+            60,
+            114,
+            144,
+            240,
+            289,
+            325,
+            243,
+            174,
+            94,
+            65
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            227,
+            285,
+            359,
+            375,
+            373,
+            376,
+            383,
+            381,
+            275,
+            267,
+            252,
+            239,
+            235
+          ],
+          "all_points_y": [
+            124,
+            101,
+            77,
+            74,
+            133,
+            189,
+            253,
+            347,
+            389,
+            335,
+            272,
+            227,
+            197
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            445,
+            500,
+            567,
+            577,
+            600,
+            629,
+            635,
+            610,
+            441,
+            440,
+            435,
+            433
+          ],
+          "all_points_y": [
+            229,
+            233,
+            233,
+            292,
+            345,
+            404,
+            415,
+            479,
+            479,
+            405,
+            331,
+            293
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000032.png446888": {
+    "filename": "sandwich_bag1_000032.png",
+    "size": 446888,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            95,
+            63,
+            78,
+            96,
+            132,
+            223,
+            213,
+            201,
+            182,
+            132,
+            112,
+            101
+          ],
+          "all_points_y": [
+            56,
+            223,
+            243,
+            267,
+            297,
+            213,
+            163,
+            102,
+            54,
+            31,
+            17,
+            3
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            198,
+            249,
+            285,
+            338,
+            343,
+            357,
+            362,
+            371,
+            323,
+            263,
+            245,
+            231
+          ],
+          "all_points_y": [
+            60,
+            43,
+            31,
+            20,
+            93,
+            152,
+            209,
+            303,
+            322,
+            343,
+            264,
+            220
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            426,
+            485,
+            548,
+            560,
+            619,
+            582,
+            443,
+            432,
+            425,
+            418
+          ],
+          "all_points_y": [
+            187,
+            191,
+            183,
+            243,
+            329,
+            467,
+            467,
+            379,
+            317,
+            243
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000034.png445559": {
+    "filename": "sandwich_bag1_000034.png",
+    "size": 445559,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            112,
+            121,
+            191,
+            205,
+            225,
+            138,
+            101,
+            71,
+            89,
+            103,
+            111
+          ],
+          "all_points_y": [
+            36,
+            49,
+            79,
+            133,
+            242,
+            326,
+            301,
+            267,
+            183,
+            107,
+            80
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            192,
+            230,
+            323,
+            337,
+            358,
+            376,
+            273,
+            255,
+            232,
+            221,
+            211
+          ],
+          "all_points_y": [
+            77,
+            65,
+            43,
+            116,
+            223,
+            322,
+            363,
+            296,
+            247,
+            176,
+            136
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            422,
+            485,
+            542,
+            569,
+            627,
+            611,
+            461,
+            454,
+            449,
+            438,
+            422
+          ],
+          "all_points_y": [
+            211,
+            213,
+            200,
+            257,
+            309,
+            471,
+            476,
+            444,
+            413,
+            346,
+            289
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000035.png442692": {
+    "filename": "sandwich_bag1_000035.png",
+    "size": 442692,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            118,
+            128,
+            179,
+            217,
+            243,
+            153,
+            100,
+            103,
+            126,
+            126,
+            125
+          ],
+          "all_points_y": [
+            32,
+            41,
+            55,
+            143,
+            231,
+            311,
+            259,
+            243,
+            81,
+            71,
+            70
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            188,
+            312,
+            339,
+            355,
+            373,
+            387,
+            277,
+            255,
+            240,
+            210
+          ],
+          "all_points_y": [
+            54,
+            17,
+            107,
+            163,
+            227,
+            299,
+            340,
+            261,
+            217,
+            121
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            437,
+            506,
+            566,
+            599,
+            622,
+            639,
+            639,
+            470,
+            445,
+            436,
+            435
+          ],
+          "all_points_y": [
+            190,
+            187,
+            174,
+            229,
+            249,
+            257,
+            453,
+            455,
+            319,
+            264,
+            231
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000037.png435568": {
+    "filename": "sandwich_bag1_000037.png",
+    "size": 435568,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            29,
+            66,
+            108,
+            123,
+            131,
+            139,
+            158,
+            85,
+            33,
+            36,
+            40,
+            41
+          ],
+          "all_points_y": [
+            10,
+            3,
+            60,
+            97,
+            117,
+            192,
+            215,
+            282,
+            230,
+            166,
+            89,
+            36
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            108,
+            159,
+            169,
+            196,
+            298,
+            342,
+            213,
+            159,
+            140,
+            121
+          ],
+          "all_points_y": [
+            0,
+            0,
+            29,
+            52,
+            147,
+            203,
+            247,
+            214,
+            190,
+            47
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            360,
+            432,
+            493,
+            518,
+            543,
+            553,
+            561,
+            571,
+            386,
+            351,
+            348,
+            365
+          ],
+          "all_points_y": [
+            120,
+            119,
+            96,
+            139,
+            150,
+            246,
+            259,
+            362,
+            386,
+            225,
+            197,
+            169
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000038.png418403": {
+    "filename": "sandwich_bag1_000038.png",
+    "size": 418403,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            46,
+            106,
+            158,
+            99,
+            43,
+            45
+          ],
+          "all_points_y": [
+            149,
+            153,
+            230,
+            283,
+            232,
+            232
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            15,
+            55,
+            93,
+            150,
+            285,
+            356,
+            273,
+            179,
+            139,
+            106,
+            125,
+            109,
+            72,
+            49
+          ],
+          "all_points_y": [
+            74,
+            73,
+            70,
+            140,
+            151,
+            177,
+            285,
+            270,
+            199,
+            153,
+            153,
+            129,
+            114,
+            110
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            373,
+            445,
+            507,
+            536,
+            553,
+            569,
+            582,
+            592,
+            403,
+            381,
+            365,
+            359,
+            376,
+            376
+          ],
+          "all_points_y": [
+            119,
+            117,
+            93,
+            137,
+            143,
+            235,
+            259,
+            363,
+            389,
+            294,
+            245,
+            197,
+            167,
+            151
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000049.png477168": {
+    "filename": "sandwich_bag1_000049.png",
+    "size": 477168,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            117,
+            186,
+            203,
+            177,
+            206,
+            220,
+            159,
+            83,
+            98,
+            111
+          ],
+          "all_points_y": [
+            113,
+            109,
+            164,
+            172,
+            195,
+            289,
+            350,
+            332,
+            246,
+            156
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            250,
+            308,
+            336,
+            407,
+            373,
+            282,
+            230,
+            207,
+            179,
+            210
+          ],
+          "all_points_y": [
+            163,
+            153,
+            211,
+            269,
+            351,
+            361,
+            237,
+            195,
+            173,
+            167
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            545,
+            533,
+            439,
+            450,
+            455,
+            573,
+            591,
+            593,
+            569
+          ],
+          "all_points_y": [
+            137,
+            156,
+            217,
+            317,
+            323,
+            393,
+            302,
+            277,
+            199
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000050.png477509": {
+    "filename": "sandwich_bag1_000050.png",
+    "size": 477509,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            95,
+            130,
+            171,
+            189,
+            171,
+            193,
+            209,
+            146,
+            62,
+            78,
+            95
+          ],
+          "all_points_y": [
+            95,
+            97,
+            93,
+            154,
+            157,
+            182,
+            277,
+            343,
+            325,
+            244,
+            142
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            225,
+            256,
+            306,
+            329,
+            395,
+            359,
+            275,
+            240,
+            211,
+            195,
+            173,
+            198
+          ],
+          "all_points_y": [
+            150,
+            147,
+            135,
+            199,
+            249,
+            336,
+            339,
+            274,
+            212,
+            180,
+            159,
+            153
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            529,
+            500,
+            428,
+            438,
+            470,
+            493,
+            565,
+            581,
+            549
+          ],
+          "all_points_y": [
+            122,
+            151,
+            204,
+            299,
+            320,
+            329,
+            369,
+            254,
+            173
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000051.png475809": {
+    "filename": "sandwich_bag1_000051.png",
+    "size": 475809,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            79,
+            113,
+            153,
+            175,
+            155,
+            177,
+            179,
+            185,
+            192,
+            188,
+            131,
+            49,
+            40,
+            73
+          ],
+          "all_points_y": [
+            74,
+            76,
+            73,
+            133,
+            137,
+            159,
+            190,
+            246,
+            259,
+            267,
+            329,
+            315,
+            313,
+            129
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            213,
+            243,
+            295,
+            318,
+            329,
+            356,
+            379,
+            353,
+            343,
+            259,
+            227,
+            191,
+            177,
+            157,
+            191
+          ],
+          "all_points_y": [
+            125,
+            123,
+            114,
+            183,
+            189,
+            219,
+            237,
+            317,
+            322,
+            326,
+            257,
+            187,
+            159,
+            139,
+            131
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            513,
+            503,
+            418,
+            420,
+            421,
+            432,
+            437,
+            479,
+            555,
+            571,
+            535
+          ],
+          "all_points_y": [
+            106,
+            125,
+            187,
+            225,
+            242,
+            287,
+            296,
+            314,
+            351,
+            232,
+            147
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000052.png478624": {
+    "filename": "sandwich_bag1_000052.png",
+    "size": 478624,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            83,
+            123,
+            160,
+            178,
+            159,
+            179,
+            186,
+            193,
+            130,
+            43,
+            79
+          ],
+          "all_points_y": [
+            70,
+            73,
+            67,
+            129,
+            135,
+            144,
+            249,
+            263,
+            329,
+            312,
+            117
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            227,
+            275,
+            309,
+            330,
+            360,
+            386,
+            389,
+            356,
+            262,
+            220,
+            195,
+            179,
+            159,
+            196
+          ],
+          "all_points_y": [
+            124,
+            119,
+            114,
+            179,
+            219,
+            241,
+            244,
+            329,
+            332,
+            227,
+            170,
+            146,
+            136,
+            127
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            527,
+            509,
+            429,
+            433,
+            471,
+            497,
+            566,
+            590,
+            555
+          ],
+          "all_points_y": [
+            113,
+            134,
+            191,
+            290,
+            314,
+            325,
+            363,
+            239,
+            169
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000054.png479279": {
+    "filename": "sandwich_bag1_000054.png",
+    "size": 479279,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            39,
+            82,
+            133,
+            146,
+            160,
+            96,
+            0,
+            3,
+            33
+          ],
+          "all_points_y": [
+            61,
+            67,
+            66,
+            129,
+            280,
+            353,
+            335,
+            265,
+            124
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            151,
+            247,
+            312,
+            331,
+            342,
+            353,
+            367,
+            373,
+            358,
+            343,
+            246,
+            206,
+            189,
+            181
+          ],
+          "all_points_y": [
+            132,
+            123,
+            113,
+            187,
+            207,
+            239,
+            249,
+            256,
+            319,
+            342,
+            353,
+            249,
+            217,
+            187
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            505,
+            502,
+            422,
+            426,
+            485,
+            565,
+            599,
+            559,
+            532
+          ],
+          "all_points_y": [
+            105,
+            134,
+            197,
+            305,
+            336,
+            377,
+            254,
+            194,
+            151
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000060.png480369": {
+    "filename": "sandwich_bag1_000060.png",
+    "size": 480369,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            7,
+            98,
+            135,
+            192,
+            260,
+            289,
+            227,
+            129,
+            41,
+            15
+          ],
+          "all_points_y": [
+            221,
+            173,
+            152,
+            241,
+            350,
+            443,
+            479,
+            479,
+            309,
+            266
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            276,
+            318,
+            349,
+            413,
+            440,
+            458,
+            481,
+            417,
+            407,
+            390,
+            359,
+            337,
+            313,
+            298
+          ],
+          "all_points_y": [
+            154,
+            119,
+            99,
+            44,
+            115,
+            191,
+            273,
+            329,
+            329,
+            324,
+            299,
+            281,
+            247,
+            197
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            415,
+            633,
+            639,
+            639,
+            495,
+            485,
+            465,
+            446,
+            439,
+            439
+          ],
+          "all_points_y": [
+            46,
+            56,
+            94,
+            177,
+            214,
+            205,
+            141,
+            140,
+            114,
+            111
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000062.png483041": {
+    "filename": "sandwich_bag1_000062.png",
+    "size": 483041,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            23,
+            68,
+            143,
+            235,
+            307,
+            360,
+            310,
+            187,
+            98,
+            63,
+            42
+          ],
+          "all_points_y": [
+            269,
+            243,
+            177,
+            280,
+            349,
+            431,
+            479,
+            477,
+            389,
+            343,
+            314
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            302,
+            407,
+            437,
+            455,
+            488,
+            441,
+            382,
+            345,
+            317
+          ],
+          "all_points_y": [
+            147,
+            21,
+            92,
+            149,
+            229,
+            300,
+            279,
+            252,
+            185
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            410,
+            499,
+            530,
+            583,
+            608,
+            476,
+            447,
+            426
+          ],
+          "all_points_y": [
+            23,
+            12,
+            13,
+            5,
+            114,
+            177,
+            112,
+            63
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000063.png474629": {
+    "filename": "sandwich_bag1_000063.png",
+    "size": 474629,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            0,
+            55,
+            108,
+            135,
+            213,
+            252,
+            310,
+            283,
+            81,
+            1
+          ],
+          "all_points_y": [
+            260,
+            205,
+            252,
+            271,
+            342,
+            372,
+            439,
+            479,
+            479,
+            414
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            232,
+            325,
+            395,
+            420,
+            376,
+            305,
+            275,
+            259
+          ],
+          "all_points_y": [
+            161,
+            40,
+            185,
+            225,
+            300,
+            286,
+            254,
+            210
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            327,
+            425,
+            483,
+            509,
+            396,
+            353
+          ],
+          "all_points_y": [
+            37,
+            26,
+            13,
+            115,
+            182,
+            93
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000067.png483533": {
+    "filename": "sandwich_bag1_000067.png",
+    "size": 483533,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1,
+            49,
+            129,
+            166,
+            223,
+            272,
+            188,
+            108,
+            29,
+            0
+          ],
+          "all_points_y": [
+            150,
+            119,
+            232,
+            275,
+            330,
+            396,
+            477,
+            479,
+            421,
+            389
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            245,
+            292,
+            340,
+            349,
+            379,
+            343,
+            287,
+            231,
+            246,
+            255,
+            252
+          ],
+          "all_points_y": [
+            94,
+            51,
+            6,
+            73,
+            215,
+            276,
+            270,
+            253,
+            217,
+            181,
+            141
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            369,
+            460,
+            467,
+            372,
+            351,
+            346
+          ],
+          "all_points_y": [
+            37,
+            36,
+            135,
+            177,
+            79,
+            39
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000068.png464496": {
+    "filename": "sandwich_bag1_000068.png",
+    "size": 464496,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            56,
+            133,
+            183,
+            211,
+            233,
+            269,
+            143,
+            125,
+            56,
+            5,
+            2,
+            29
+          ],
+          "all_points_y": [
+            76,
+            45,
+            141,
+            193,
+            241,
+            322,
+            394,
+            356,
+            249,
+            149,
+            97,
+            87
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            286,
+            376,
+            416,
+            423,
+            433,
+            405,
+            383,
+            366,
+            299,
+            296
+          ],
+          "all_points_y": [
+            54,
+            1,
+            0,
+            119,
+            190,
+            219,
+            234,
+            233,
+            181,
+            104
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            421,
+            436,
+            566,
+            572,
+            490,
+            419
+          ],
+          "all_points_y": [
+            45,
+            143,
+            123,
+            15,
+            0,
+            0
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000070.png420157": {
+    "filename": "sandwich_bag1_000070.png",
+    "size": 420157,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            155,
+            215,
+            266,
+            275,
+            285,
+            242,
+            135,
+            143,
+            149
+          ],
+          "all_points_y": [
+            4,
+            9,
+            4,
+            63,
+            224,
+            307,
+            286,
+            129,
+            61
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            303,
+            387,
+            499,
+            507,
+            513,
+            493,
+            385,
+            340,
+            321
+          ],
+          "all_points_y": [
+            113,
+            107,
+            97,
+            177,
+            221,
+            300,
+            307,
+            193,
+            145
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            589,
+            568,
+            586,
+            639,
+            639
+          ],
+          "all_points_y": [
+            157,
+            256,
+            273,
+            299,
+            106
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000071.png412125": {
+    "filename": "sandwich_bag1_000071.png",
+    "size": 412125,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            121,
+            139,
+            189,
+            222,
+            267,
+            208,
+            196,
+            233,
+            255,
+            208,
+            133,
+            130,
+            129
+          ],
+          "all_points_y": [
+            89,
+            94,
+            93,
+            145,
+            247,
+            239,
+            239,
+            259,
+            279,
+            347,
+            310,
+            203,
+            131
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            298,
+            350,
+            409,
+            466,
+            438,
+            413,
+            318,
+            253,
+            235,
+            202,
+            259
+          ],
+          "all_points_y": [
+            252,
+            243,
+            237,
+            249,
+            321,
+            364,
+            354,
+            275,
+            257,
+            242,
+            249
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            496,
+            502,
+            508,
+            636,
+            639,
+            557
+          ],
+          "all_points_y": [
+            251,
+            319,
+            332,
+            417,
+            139,
+            205
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000072.png482320": {
+    "filename": "sandwich_bag1_000072.png",
+    "size": 482320,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            141,
+            159,
+            189,
+            222,
+            249,
+            273,
+            290,
+            219,
+            176,
+            203,
+            215,
+            257,
+            220,
+            197,
+            166,
+            161,
+            159,
+            155
+          ],
+          "all_points_y": [
+            140,
+            150,
+            149,
+            185,
+            233,
+            271,
+            285,
+            277,
+            272,
+            281,
+            287,
+            329,
+            370,
+            360,
+            335,
+            330,
+            222,
+            175
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            310,
+            365,
+            396,
+            447,
+            453,
+            443,
+            402,
+            319,
+            265,
+            237,
+            216,
+            180,
+            258,
+            301
+          ],
+          "all_points_y": [
+            283,
+            272,
+            269,
+            275,
+            277,
+            309,
+            393,
+            392,
+            331,
+            309,
+            289,
+            273,
+            283,
+            285
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            615,
+            629,
+            639,
+            619,
+            565,
+            491,
+            451,
+            453,
+            491,
+            566,
+            606
+          ],
+          "all_points_y": [
+            87,
+            119,
+            123,
+            476,
+            435,
+            369,
+            295,
+            280,
+            244,
+            186,
+            132
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000077.png491048": {
+    "filename": "sandwich_bag1_000077.png",
+    "size": 491048,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            109,
+            150,
+            183,
+            212,
+            238,
+            247,
+            213,
+            130,
+            122,
+            115
+          ],
+          "all_points_y": [
+            140,
+            133,
+            126,
+            180,
+            267,
+            282,
+            353,
+            357,
+            229,
+            183
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            233,
+            337,
+            352,
+            363,
+            352,
+            277,
+            255,
+            259,
+            256,
+            245
+          ],
+          "all_points_y": [
+            113,
+            95,
+            161,
+            260,
+            343,
+            349,
+            349,
+            235,
+            179,
+            151
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            348,
+            479,
+            513,
+            547,
+            609,
+            479,
+            429,
+            379,
+            361
+          ],
+          "all_points_y": [
+            132,
+            87,
+            130,
+            206,
+            371,
+            430,
+            347,
+            253,
+            183
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000079.png453728": {
+    "filename": "sandwich_bag1_000079.png",
+    "size": 453728,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            79,
+            99,
+            149,
+            177,
+            193,
+            218,
+            182,
+            115,
+            93
+          ],
+          "all_points_y": [
+            30,
+            37,
+            32,
+            74,
+            120,
+            163,
+            242,
+            227,
+            103
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            198,
+            259,
+            303,
+            312,
+            299,
+            316,
+            298,
+            280,
+            225,
+            222,
+            222,
+            218
+          ],
+          "all_points_y": [
+            32,
+            27,
+            27,
+            89,
+            92,
+            171,
+            237,
+            242,
+            234,
+            142,
+            89,
+            75
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            355,
+            427,
+            457,
+            488,
+            383,
+            341,
+            319,
+            313,
+            302
+          ],
+          "all_points_y": [
+            73,
+            51,
+            126,
+            316,
+            339,
+            251,
+            182,
+            137,
+            93
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000080.png455529": {
+    "filename": "sandwich_bag1_000080.png",
+    "size": 455529,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            99,
+            125,
+            163,
+            183,
+            205,
+            236,
+            255,
+            226,
+            159,
+            138,
+            115
+          ],
+          "all_points_y": [
+            56,
+            61,
+            56,
+            75,
+            104,
+            152,
+            166,
+            243,
+            229,
+            153,
+            96
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            207,
+            257,
+            312,
+            339,
+            317,
+            339,
+            333,
+            259,
+            256,
+            255,
+            235,
+            225
+          ],
+          "all_points_y": [
+            51,
+            47,
+            43,
+            114,
+            124,
+            190,
+            245,
+            239,
+            152,
+            104,
+            85,
+            77
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            379,
+            445,
+            476,
+            502,
+            519,
+            413,
+            383,
+            350,
+            337,
+            319,
+            351
+          ],
+          "all_points_y": [
+            96,
+            71,
+            139,
+            247,
+            317,
+            344,
+            287,
+            221,
+            174,
+            123,
+            107
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000081.png459841": {
+    "filename": "sandwich_bag1_000081.png",
+    "size": 459841,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            139,
+            160,
+            202,
+            226,
+            257,
+            282,
+            299,
+            275,
+            213,
+            179,
+            159,
+            152,
+            151
+          ],
+          "all_points_y": [
+            57,
+            66,
+            59,
+            76,
+            103,
+            136,
+            135,
+            229,
+            213,
+            132,
+            91,
+            72,
+            71
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            246,
+            288,
+            348,
+            373,
+            385,
+            348,
+            373,
+            379,
+            309,
+            298,
+            299,
+            278,
+            270
+          ],
+          "all_points_y": [
+            64,
+            59,
+            52,
+            90,
+            129,
+            143,
+            206,
+            236,
+            232,
+            159,
+            97,
+            90,
+            86
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            419,
+            491,
+            515,
+            539,
+            551,
+            573,
+            459,
+            415,
+            386,
+            349,
+            392
+          ],
+          "all_points_y": [
+            120,
+            87,
+            149,
+            183,
+            216,
+            332,
+            346,
+            273,
+            223,
+            144,
+            130
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000082.png470173": {
+    "filename": "sandwich_bag1_000082.png",
+    "size": 470173,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            159,
+            172,
+            210,
+            257,
+            295,
+            321,
+            320,
+            305,
+            246,
+            219,
+            189,
+            183,
+            183
+          ],
+          "all_points_y": [
+            63,
+            70,
+            66,
+            83,
+            112,
+            129,
+            165,
+            219,
+            204,
+            143,
+            100,
+            79,
+            80
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            255,
+            285,
+            345,
+            373,
+            416,
+            355,
+            405,
+            338,
+            323,
+            321,
+            311,
+            289,
+            270
+          ],
+          "all_points_y": [
+            69,
+            59,
+            53,
+            79,
+            116,
+            146,
+            229,
+            221,
+            186,
+            132,
+            99,
+            86,
+            81
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            433,
+            491,
+            509,
+            525,
+            545,
+            579,
+            605,
+            588,
+            488,
+            413,
+            356,
+            409
+          ],
+          "all_points_y": [
+            110,
+            82,
+            122,
+            146,
+            167,
+            197,
+            319,
+            327,
+            340,
+            233,
+            145,
+            122
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000083.png449549": {
+    "filename": "sandwich_bag1_000083.png",
+    "size": 449549,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            3,
+            25,
+            85,
+            115,
+            158,
+            175,
+            188,
+            159,
+            105,
+            73,
+            40,
+            16
+          ],
+          "all_points_y": [
+            141,
+            149,
+            141,
+            165,
+            222,
+            243,
+            251,
+            347,
+            344,
+            334,
+            235,
+            173
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            137,
+            215,
+            268,
+            281,
+            295,
+            273,
+            285,
+            299,
+            289,
+            198,
+            193,
+            189
+          ],
+          "all_points_y": [
+            139,
+            129,
+            124,
+            165,
+            212,
+            220,
+            247,
+            293,
+            352,
+            354,
+            239,
+            197
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            343,
+            427,
+            463,
+            478,
+            518,
+            399,
+            373,
+            335,
+            305,
+            278,
+            307
+          ],
+          "all_points_y": [
+            195,
+            156,
+            229,
+            280,
+            435,
+            471,
+            425,
+            364,
+            304,
+            223,
+            211
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000084.png425294": {
+    "filename": "sandwich_bag1_000084.png",
+    "size": 425294,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            37,
+            72,
+            123,
+            152,
+            176,
+            206,
+            218,
+            188,
+            120,
+            100,
+            75,
+            56
+          ],
+          "all_points_y": [
+            80,
+            87,
+            76,
+            103,
+            149,
+            205,
+            214,
+            307,
+            305,
+            299,
+            222,
+            132
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            185,
+            211,
+            235,
+            323,
+            331,
+            335,
+            343,
+            326,
+            232,
+            229,
+            217,
+            202
+          ],
+          "all_points_y": [
+            70,
+            69,
+            65,
+            56,
+            127,
+            157,
+            200,
+            311,
+            313,
+            226,
+            150,
+            115
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            335,
+            409,
+            499,
+            517,
+            527,
+            539,
+            578,
+            579,
+            450,
+            379,
+            357,
+            358
+          ],
+          "all_points_y": [
+            145,
+            119,
+            80,
+            127,
+            147,
+            184,
+            363,
+            386,
+            429,
+            299,
+            247,
+            207
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000085.png436232": {
+    "filename": "sandwich_bag1_000085.png",
+    "size": 436232,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            27,
+            63,
+            126,
+            145,
+            173,
+            205,
+            180,
+            85,
+            56,
+            38
+          ],
+          "all_points_y": [
+            59,
+            63,
+            55,
+            77,
+            143,
+            223,
+            300,
+            299,
+            172,
+            105
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            190,
+            255,
+            319,
+            331,
+            336,
+            326,
+            223,
+            220,
+            213
+          ],
+          "all_points_y": [
+            43,
+            33,
+            27,
+            103,
+            167,
+            292,
+            297,
+            175,
+            101
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            333,
+            486,
+            510,
+            529,
+            552,
+            580,
+            457,
+            401,
+            356,
+            353
+          ],
+          "all_points_y": [
+            101,
+            40,
+            93,
+            133,
+            214,
+            343,
+            396,
+            311,
+            206,
+            149
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000086.png454515": {
+    "filename": "sandwich_bag1_000086.png",
+    "size": 454515,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            0,
+            28,
+            146,
+            149,
+            170,
+            139,
+            123,
+            0,
+            0
+          ],
+          "all_points_y": [
+            52,
+            269,
+            273,
+            272,
+            187,
+            33,
+            0,
+            1,
+            0
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            205,
+            195,
+            205,
+            315,
+            335,
+            336,
+            338
+          ],
+          "all_points_y": [
+            2,
+            127,
+            270,
+            267,
+            103,
+            64,
+            1
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            369,
+            432,
+            505,
+            533,
+            539,
+            566,
+            468,
+            453,
+            383,
+            391,
+            382,
+            383,
+            382
+          ],
+          "all_points_y": [
+            55,
+            32,
+            17,
+            79,
+            109,
+            315,
+            363,
+            361,
+            251,
+            239,
+            197,
+            133,
+            105
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000087.png480010": {
+    "filename": "sandwich_bag1_000087.png",
+    "size": 480010,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            99,
+            123,
+            149,
+            231,
+            233,
+            223,
+            210,
+            199,
+            73,
+            81,
+            82,
+            82,
+            82
+          ],
+          "all_points_y": [
+            17,
+            34,
+            41,
+            49,
+            116,
+            175,
+            293,
+            323,
+            311,
+            279,
+            187,
+            107,
+            67
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            309,
+            373,
+            429,
+            403,
+            390,
+            360,
+            298,
+            259,
+            259,
+            257,
+            276
+          ],
+          "all_points_y": [
+            60,
+            69,
+            81,
+            157,
+            213,
+            333,
+            327,
+            324,
+            253,
+            222,
+            157
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            459,
+            566,
+            589,
+            593,
+            591,
+            505,
+            493,
+            425,
+            463,
+            462
+          ],
+          "all_points_y": [
+            149,
+            125,
+            177,
+            204,
+            396,
+            437,
+            437,
+            313,
+            222,
+            189
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000088.png483352": {
+    "filename": "sandwich_bag1_000088.png",
+    "size": 483352,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            87,
+            116,
+            163,
+            227,
+            220,
+            213,
+            200,
+            185,
+            49,
+            59,
+            58,
+            66,
+            78
+          ],
+          "all_points_y": [
+            2,
+            19,
+            33,
+            35,
+            100,
+            179,
+            287,
+            322,
+            303,
+            255,
+            75,
+            31,
+            2
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            309,
+            359,
+            429,
+            392,
+            370,
+            348,
+            245,
+            243,
+            245,
+            247,
+            268,
+            277
+          ],
+          "all_points_y": [
+            47,
+            57,
+            73,
+            165,
+            255,
+            327,
+            324,
+            265,
+            232,
+            219,
+            147,
+            124
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            462,
+            507,
+            566,
+            585,
+            583,
+            577,
+            492,
+            486,
+            412,
+            440,
+            457,
+            458
+          ],
+          "all_points_y": [
+            149,
+            137,
+            125,
+            179,
+            257,
+            395,
+            433,
+            432,
+            315,
+            259,
+            214,
+            194
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000089.png442001": {
+    "filename": "sandwich_bag1_000089.png",
+    "size": 442001,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            156,
+            181,
+            266,
+            275,
+            279,
+            283,
+            265,
+            262,
+            160,
+            158,
+            165,
+            163,
+            152,
+            149,
+            149
+          ],
+          "all_points_y": [
+            22,
+            36,
+            37,
+            96,
+            171,
+            214,
+            287,
+            292,
+            281,
+            267,
+            242,
+            190,
+            129,
+            86,
+            66
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            339,
+            399,
+            463,
+            450,
+            439,
+            413,
+            362,
+            315,
+            312,
+            313,
+            323,
+            331
+          ],
+          "all_points_y": [
+            34,
+            34,
+            39,
+            105,
+            180,
+            297,
+            294,
+            293,
+            210,
+            192,
+            126,
+            89
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            488,
+            566,
+            622,
+            638,
+            639,
+            553,
+            483,
+            489,
+            489,
+            495,
+            493
+          ],
+          "all_points_y": [
+            100,
+            81,
+            67,
+            117,
+            369,
+            393,
+            280,
+            257,
+            233,
+            155,
+            144
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000092.png464906": {
+    "filename": "sandwich_bag1_000092.png",
+    "size": 464906,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            200,
+            219,
+            285,
+            305,
+            322,
+            291,
+            207,
+            209,
+            203,
+            206
+          ],
+          "all_points_y": [
+            101,
+            107,
+            101,
+            165,
+            261,
+            325,
+            313,
+            230,
+            171,
+            146
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            341,
+            443,
+            442,
+            451,
+            430,
+            333,
+            339,
+            345,
+            346
+          ],
+          "all_points_y": [
+            95,
+            89,
+            159,
+            176,
+            335,
+            330,
+            222,
+            159,
+            139
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            475,
+            588,
+            593,
+            591,
+            555,
+            429,
+            435,
+            452,
+            443,
+            446
+          ],
+          "all_points_y": [
+            86,
+            86,
+            147,
+            207,
+            381,
+            361,
+            312,
+            175,
+            160,
+            85
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000093.png459798": {
+    "filename": "sandwich_bag1_000093.png",
+    "size": 459798,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            159,
+            193,
+            238,
+            263,
+            293,
+            259,
+            179,
+            175,
+            163
+          ],
+          "all_points_y": [
+            107,
+            110,
+            102,
+            163,
+            255,
+            330,
+            321,
+            236,
+            150
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            292,
+            397,
+            399,
+            397,
+            299,
+            308,
+            307,
+            305
+          ],
+          "all_points_y": [
+            94,
+            86,
+            147,
+            331,
+            325,
+            239,
+            161,
+            142
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            396,
+            542,
+            547,
+            541,
+            520,
+            393,
+            399,
+            399,
+            401
+          ],
+          "all_points_y": [
+            79,
+            77,
+            145,
+            271,
+            380,
+            357,
+            314,
+            247,
+            145
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000094.png470976": {
+    "filename": "sandwich_bag1_000094.png",
+    "size": 470976,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            119,
+            138,
+            199,
+            231,
+            263,
+            231,
+            150,
+            139,
+            129
+          ],
+          "all_points_y": [
+            81,
+            93,
+            81,
+            155,
+            233,
+            313,
+            306,
+            219,
+            133
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            250,
+            315,
+            361,
+            365,
+            366,
+            335,
+            345,
+            379,
+            369,
+            269,
+            275,
+            273,
+            263
+          ],
+          "all_points_y": [
+            75,
+            67,
+            62,
+            62,
+            66,
+            79,
+            119,
+            222,
+            314,
+            311,
+            227,
+            159,
+            119
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            398,
+            466,
+            493,
+            503,
+            520,
+            553,
+            550,
+            459,
+            453,
+            419,
+            382,
+            362,
+            338,
+            371
+          ],
+          "all_points_y": [
+            52,
+            33,
+            79,
+            120,
+            171,
+            293,
+            314,
+            345,
+            332,
+            319,
+            227,
+            157,
+            82,
+            67
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000096.png465076": {
+    "filename": "sandwich_bag1_000096.png",
+    "size": 465076,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            121,
+            139,
+            183,
+            209,
+            231,
+            245,
+            222,
+            200,
+            133,
+            131,
+            126
+          ],
+          "all_points_y": [
+            103,
+            107,
+            103,
+            157,
+            219,
+            233,
+            276,
+            301,
+            285,
+            203,
+            142
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            222,
+            262,
+            319,
+            329,
+            338,
+            337,
+            313,
+            235,
+            243,
+            243,
+            239
+          ],
+          "all_points_y": [
+            101,
+            97,
+            99,
+            149,
+            209,
+            240,
+            314,
+            307,
+            247,
+            199,
+            147
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            325,
+            395,
+            441,
+            459,
+            469,
+            489,
+            420,
+            379,
+            361,
+            348,
+            348
+          ],
+          "all_points_y": [
+            92,
+            75,
+            66,
+            110,
+            161,
+            320,
+            325,
+            332,
+            266,
+            205,
+            204
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000097.png486543": {
+    "filename": "sandwich_bag1_000097.png",
+    "size": 486543,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            47,
+            106,
+            125,
+            139,
+            151,
+            129,
+            21,
+            13,
+            3,
+            1,
+            15
+          ],
+          "all_points_y": [
+            120,
+            117,
+            159,
+            215,
+            281,
+            359,
+            355,
+            272,
+            199,
+            113,
+            117
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            175,
+            236,
+            293,
+            291,
+            292,
+            278,
+            221,
+            179,
+            176,
+            173,
+            179,
+            180
+          ],
+          "all_points_y": [
+            116,
+            112,
+            112,
+            189,
+            221,
+            345,
+            353,
+            356,
+            283,
+            230,
+            170,
+            157
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            295,
+            353,
+            411,
+            432,
+            455,
+            456,
+            363,
+            331,
+            327,
+            315,
+            306
+          ],
+          "all_points_y": [
+            104,
+            91,
+            83,
+            139,
+            303,
+            327,
+            359,
+            313,
+            285,
+            204,
+            181
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000098.png481748": {
+    "filename": "sandwich_bag1_000098.png",
+    "size": 481748,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            55,
+            73,
+            98,
+            201,
+            199,
+            200,
+            195,
+            181,
+            50,
+            55,
+            46,
+            39
+          ],
+          "all_points_y": [
+            7,
+            23,
+            32,
+            37,
+            123,
+            217,
+            283,
+            319,
+            312,
+            283,
+            159,
+            72
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            281,
+            343,
+            403,
+            379,
+            345,
+            297,
+            242,
+            236,
+            236,
+            249,
+            255
+          ],
+          "all_points_y": [
+            45,
+            47,
+            59,
+            154,
+            321,
+            317,
+            317,
+            252,
+            214,
+            144,
+            123
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            405,
+            443,
+            515,
+            532,
+            533,
+            529,
+            442,
+            405,
+            380,
+            399,
+            405
+          ],
+          "all_points_y": [
+            52,
+            45,
+            44,
+            95,
+            113,
+            307,
+            332,
+            284,
+            234,
+            166,
+            100
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000100.png438414": {
+    "filename": "sandwich_bag1_000100.png",
+    "size": 438414,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            219,
+            337,
+            278,
+            263,
+            130,
+            140,
+            145,
+            148,
+            159
+          ],
+          "all_points_y": [
+            2,
+            19,
+            287,
+            317,
+            291,
+            233,
+            82,
+            40,
+            3
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            420,
+            497,
+            542,
+            489,
+            433,
+            325,
+            329,
+            326,
+            365
+          ],
+          "all_points_y": [
+            37,
+            53,
+            65,
+            172,
+            332,
+            325,
+            232,
+            210,
+            134
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            543,
+            582,
+            637,
+            639,
+            639,
+            619,
+            523,
+            469,
+            506,
+            532,
+            543
+          ],
+          "all_points_y": [
+            57,
+            57,
+            56,
+            73,
+            232,
+            339,
+            357,
+            237,
+            185,
+            137,
+            57
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000102.png476099": {
+    "filename": "sandwich_bag1_000102.png",
+    "size": 476099,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            61,
+            76,
+            121,
+            209,
+            215,
+            215,
+            213,
+            206,
+            142,
+            73,
+            68,
+            56,
+            53
+          ],
+          "all_points_y": [
+            47,
+            63,
+            73,
+            67,
+            143,
+            236,
+            322,
+            353,
+            349,
+            350,
+            237,
+            137,
+            102
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            291,
+            351,
+            428,
+            409,
+            401,
+            373,
+            336,
+            266,
+            257,
+            256,
+            263,
+            279
+          ],
+          "all_points_y": [
+            72,
+            72,
+            79,
+            144,
+            189,
+            347,
+            346,
+            353,
+            279,
+            246,
+            186,
+            136
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            428,
+            491,
+            548,
+            565,
+            567,
+            570,
+            569,
+            473,
+            407,
+            428,
+            426
+          ],
+          "all_points_y": [
+            72,
+            60,
+            53,
+            103,
+            116,
+            213,
+            330,
+            363,
+            253,
+            206,
+            137
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000103.png471745": {
+    "filename": "sandwich_bag1_000103.png",
+    "size": 471745,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            98,
+            107,
+            131,
+            223,
+            235,
+            239,
+            246,
+            243,
+            230,
+            119,
+            123,
+            113,
+            101,
+            95
+          ],
+          "all_points_y": [
+            77,
+            93,
+            101,
+            97,
+            145,
+            204,
+            255,
+            303,
+            347,
+            347,
+            299,
+            224,
+            169,
+            134
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            295,
+            357,
+            427,
+            393,
+            389,
+            329,
+            283,
+            279,
+            278
+          ],
+          "all_points_y": [
+            93,
+            93,
+            92,
+            317,
+            345,
+            350,
+            351,
+            282,
+            247
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            427,
+            503,
+            552,
+            575,
+            579,
+            585,
+            485,
+            476,
+            427,
+            436,
+            432
+          ],
+          "all_points_y": [
+            84,
+            69,
+            61,
+            127,
+            159,
+            331,
+            363,
+            359,
+            246,
+            213,
+            139
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000104.png489392": {
+    "filename": "sandwich_bag1_000104.png",
+    "size": 489392,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            115,
+            173,
+            196,
+            213,
+            223,
+            235,
+            219,
+            109,
+            115,
+            103,
+            85,
+            79,
+            80,
+            91
+          ],
+          "all_points_y": [
+            145,
+            137,
+            135,
+            179,
+            229,
+            295,
+            375,
+            376,
+            337,
+            266,
+            196,
+            170,
+            123,
+            139
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            263,
+            323,
+            389,
+            385,
+            381,
+            375,
+            371,
+            339,
+            268,
+            259
+          ],
+          "all_points_y": [
+            132,
+            125,
+            127,
+            199,
+            274,
+            341,
+            369,
+            365,
+            373,
+            279
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            389,
+            447,
+            511,
+            532,
+            536,
+            563,
+            456,
+            433,
+            408,
+            400
+          ],
+          "all_points_y": [
+            117,
+            100,
+            85,
+            139,
+            159,
+            344,
+            376,
+            333,
+            270,
+            177
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000105.png487216": {
+    "filename": "sandwich_bag1_000105.png",
+    "size": 487216,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            51,
+            69,
+            101,
+            173,
+            193,
+            225,
+            208,
+            101,
+            98,
+            75,
+            52
+          ],
+          "all_points_y": [
+            119,
+            141,
+            143,
+            127,
+            185,
+            287,
+            372,
+            379,
+            342,
+            253,
+            164
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            245,
+            303,
+            375,
+            373,
+            369,
+            360,
+            259,
+            249,
+            242,
+            245
+          ],
+          "all_points_y": [
+            126,
+            120,
+            114,
+            209,
+            273,
+            363,
+            373,
+            287,
+            275,
+            200
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            375,
+            500,
+            529,
+            557,
+            455,
+            423,
+            400
+          ],
+          "all_points_y": [
+            107,
+            70,
+            139,
+            335,
+            373,
+            323,
+            261
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000106.png484302": {
+    "filename": "sandwich_bag1_000106.png",
+    "size": 484302,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            27,
+            51,
+            159,
+            195,
+            212,
+            198,
+            80,
+            60,
+            36
+          ],
+          "all_points_y": [
+            123,
+            137,
+            126,
+            235,
+            284,
+            380,
+            384,
+            273,
+            189
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            233,
+            302,
+            369,
+            366,
+            357,
+            250,
+            233,
+            233
+          ],
+          "all_points_y": [
+            120,
+            114,
+            109,
+            227,
+            365,
+            379,
+            270,
+            173
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            372,
+            503,
+            529,
+            532,
+            550,
+            555,
+            455,
+            445,
+            421,
+            395,
+            393,
+            382
+          ],
+          "all_points_y": [
+            99,
+            60,
+            125,
+            147,
+            286,
+            333,
+            372,
+            367,
+            329,
+            262,
+            220,
+            169
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  },
+  "sandwich_bag1_000107.png491880": {
+    "filename": "sandwich_bag1_000107.png",
+    "size": 491880,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            21,
+            112,
+            139,
+            173,
+            185,
+            175,
+            166,
+            55,
+            37,
+            16,
+            0,
+            0
+          ],
+          "all_points_y": [
+            141,
+            125,
+            171,
+            263,
+            280,
+            379,
+            384,
+            391,
+            327,
+            263,
+            207,
+            141
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            189,
+            279,
+            335,
+            335,
+            339,
+            333,
+            270,
+            226,
+            217,
+            203,
+            195
+          ],
+          "all_points_y": [
+            112,
+            99,
+            93,
+            167,
+            221,
+            359,
+            369,
+            379,
+            330,
+            252,
+            159
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            333,
+            413,
+            469,
+            501,
+            505,
+            525,
+            539,
+            432,
+            398,
+            375,
+            352
+          ],
+          "all_points_y": [
+            86,
+            57,
+            36,
+            101,
+            120,
+            239,
+            319,
+            367,
+            319,
+            251,
+            173
+          ]
+        },
+        "region_attributes": {
+          "class": ""
+        }
+      }
+    ],
+    "file_attributes": null
+  }
+}
