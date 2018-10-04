@@ -2232,7 +2232,14 @@ class MaskRCNN():
             if not layer.weights:
                 continue
             # Is it trainable?
-            trainable = bool(re.fullmatch(layer_regex, layer.name))
+            import sys
+            if sys.version_info[0] == 3:
+                trainable = bool(re.fullmatch(layer_regex, layer.name))
+            else:
+                def fullmatch(regex, string, flags=0):
+                    """Emulate python-3.4 re.fullmatch()."""
+                    return re.match("(?:" + regex + r")\Z", string, flags=flags)
+                trainable = bool(fullmatch(layer_regex, layer.name))
             # Update layer. If layer is a container, update inner layer.
             if layer.__class__.__name__ == 'TimeDistributed':
                 layer.layer.trainable = trainable
