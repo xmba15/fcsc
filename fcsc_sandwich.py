@@ -6,6 +6,8 @@ import json
 import datetime
 import numpy as np
 import skimage.draw
+import imgaug
+from imgaug import augmenters as aug
 
 
 ROOT_DIR = os.path.abspath(os.path.dirname(os.path.realpath(__file__)))
@@ -20,6 +22,7 @@ DEFAULT_LOGS_DIR = os.path.join(ROOT_DIR, "logs")
 DATASET_DIR = os.path.join(ROOT_DIR, "data", "sandwich_data")
 args = None
 config = None
+
 
 class FCSCSandwichConfig(Config):
     """Configuration for training on the fcsc sandwich dataset.
@@ -127,7 +130,14 @@ def train(model):
     model.train(dataset_train, dataset_val,
                 learning_rate=config.LEARNING_RATE,
                 epochs=30,
-                layers='heads')
+                layers='heads',
+                augmentation=aug.Sometimes(5/6,aug.OneOf([
+                    imgaug.augmenters.Fliplr(1),
+                    imgaug.augmenters.Flipud(1),
+                    imgaug.augmenters.Affine(rotate=(-45, 45)),
+                    imgaug.augmenters.Affine(rotate=(-90, 90)),
+                    imgaug.augmenters.Affine(scale=(0.5, 1.5))]))
+    )
 
 
 ############################################################
