@@ -13,7 +13,7 @@ import matplotlib.patches as patches
 from fcsc_sandwich import FCSCSandwichConfig, FCSCSandwichDataset
 
 
-ROOT_DIR = os.path.abspath(os.path.dirname(os.path.realpath(__file__)))
+ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(os.path.realpath(__file__)), ".."))
 sys.path.append(ROOT_DIR)
 from mrcnn import utils
 from mrcnn import visualize
@@ -74,6 +74,7 @@ def main(test_val=True):
                               config=config)
         model.load_weights(FCSCSANDWICH_WEIGHTS_PATH, by_name=True)
 
+        h, w = [480, 640]
         if test_val:
             image_id = random.choice(dataset.image_ids)
             image, _, _, _, _ = modellib.load_image_gt(dataset, config, image_id, use_mini_mask=False)
@@ -82,6 +83,7 @@ def main(test_val=True):
                                                dataset.image_reference(image_id)))
         else:
             image = skimage.io.imread(TEST_IMAGE)
+            h, w = image.shape[:2]
             if image.ndim != 3:
                 image = skimage.color.gray2rgb(image)
                 # If has an alpha channel, remove it for consistency
@@ -96,13 +98,21 @@ def main(test_val=True):
 
         results = model.detect([image], verbose=1)
         r = results[0]
-        image, r['masks'], r['rois'] = get_original(480, 640, config, image, r['masks'], r['rois'])
+        image, r['masks'], r['rois'] = get_original(h, w, config, image, r['masks'], r['rois'])
         ax = get_ax(1)
         visualize.display_instances(image, r['rois'], r['masks'], r['class_ids'],
                                     dataset.class_names, r['scores'], ax=ax,
                                     title="Predictions", show_mask=True)
-        plt.show()
+        # plt.show()
+        plt.savefig(os.path.join(IMAGE_DIR, "mask_result.jpg"))
+        plt.close()
+        del model
+
+
+    result_img = skimage.io.imread(os.path.join(IMAGE_DIR, "mask_result.jpg"))
+    skimage.io.imshow(result_img)
+    skimage.io.show()
 
 
 if __name__ == '__main__':
-    main(test_val=False)
+    main(test_val=True)

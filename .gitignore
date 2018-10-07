@@ -1,5 +1,22 @@
+# rubbish
 *.pyc
-*.jpg
-*.png
 *~
+
+# images
+*.jpg
+*.jpeg
+*.png
+*.JPG
+
+# compressed files
 *.tar.gz
+
+# python environment
+*.python-version
+*.ipynb_checkpoints
+
+# ros
+*.bag
+
+# models
+*.h5
