@@ -19,18 +19,17 @@ find_package(catkin REQUIRED COMPONENTS
 
 
 ## Generate messages in the 'msg' folder
-# add_message_files(
-#   FILES
-#   Message1.msg
-#   Message2.msg
-# )
+add_message_files(
+  FILES
+  ObjectMask.msg
+  ObjectMaskArray.msg
+)
 
 ## Generate services in the 'srv' folder
-# add_service_files(
-#   FILES
-#   Service1.srv
-#   Service2.srv
-# )
+add_service_files(
+  FILES
+  ObjectMaskSrv.srv
+)
 
 ## Generate actions in the 'action' folder
 # add_action_files(
@@ -39,11 +38,11 @@ find_package(catkin REQUIRED COMPONENTS
 #   Action2.action
 # )
 
-# generate_messages(
-#   DEPENDENCIES
-#   sensor_msgs
-#   std_msgs
-# )
+generate_messages(
+  DEPENDENCIES
+  sensor_msgs
+  std_msgs
+)
 
 ################################################
 ## Declare ROS dynamic reconfigure parameters ##
