@@ -32,6 +32,7 @@ from sensor_msgs.msg import Image
 from fcsc.srv import ObjectMaskSrv, ObjectMaskSrvResponse
 from fcsc.msg import ObjectMask, ObjectMaskArray
 import rospy
+from std_msgs.msg import Header
 
 
 class InferenceConfig(FCSCSandwichConfig):
@@ -59,30 +60,31 @@ class FCSCSandwichServer():
         self.br = cv_bridge.CvBridge()
         self.model_path = FCSCSANDWICH_WEIGHTS_PATH
         self.device = DEVICE
+        self.service_queue = 0
         self.net = None
 
-        self.s = rospy.Service("fcsc_sandwich_server", ObjectMaskSrv, self.handle_sandwich_parsing)
+        self.s = rospy.Service("/fcsc/fcsc_sandwich_server", ObjectMaskSrv, self.handle_sandwich_parsing)
         rospy.spin()
 
     def handle_sandwich_parsing(self, req):
         """
         handle parsing processing
         """
+        self.service_queue += 1
         if self.net == None:
-            with tf.device(self.device):
-                self.net = modellib.MaskRCNN(mode="inference", model_dir=MODEL_DIR,
-                              config=self.config)
-                self.net.load_weights(self.model_path, by_name=True)
-        else:
-            rospy.logerr("Error, cannot load deep_net to the GPU")
-            self.net =None
-            self.service_queue -=1
-            return ObjectMaskSrvResponse()
+            try:
+                with tf.device(self.device):
+                    self.net = modellib.MaskRCNN(mode="inference", model_dir=MODEL_DIR,
+                                                 config=self.config)
+                    self.net.load_weights(self.model_path, by_name=True)
+            except:
+                rospy.logerr("Error, cannot load deep_net to the GPU")
+                self.net =None
+                self.service_queue -=1
+                return ObjectMaskSrvResponse()
 
-        print("after loading model")
         try:
             image = self.br.imgmsg_to_cv2(req.rgb_img, desired_encoding="bgr8")
-            print("after loading image")
             h, w = image.shape[:2]
             image, _, _, _, _ = utils.resize_image(
                 image,
@@ -93,7 +95,6 @@ class FCSCSandwichServer():
             result = self.net.detect([image], verbose=1)
             r = result[0]
             image, r['masks'], r['rois'] = get_original(h, w, self.config, image, r['masks'], r['rois'])
-            print("after run the model")
 
             object_masks = ObjectMaskArray()
             object_masks.header.frame_id = "fcsc_sandwich"
@@ -103,15 +104,15 @@ class FCSCSandwichServer():
                 object_mask = ObjectMask()
                 object_mask.class_name = "sandwich"
                 _mask = r['masks'][:,:,i].astype(np.int8)
-                object_mask.mask = _mask
+                object_mask.mask = self.br.cv2_to_imgmsg(_mask)
                 object_masks.object_mask_arr.append(object_mask)
 
-            print("after getting the result")
-            self.net = None
+            self.service_queue -= 1
             return ObjectMaskSrvResponse(masks = object_masks)
 
         except cv_bridge.CvBridgeError as e:
             rospy.logerr("CvBridge exception %s", e)
+            self.service_queue -= 1
             return ObjectMaskSrvResponse()
 
 

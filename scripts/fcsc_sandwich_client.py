@@ -35,10 +35,10 @@ class FCSCSandwichClient():
             self.img_msg = self.br.cv2_to_imgmsg(img, encoding="bgr8")
 
     def client(self):
-        rospy.wait_for_service("/fcsc_sandwich_server")
+        rospy.wait_for_service("/fcsc/fcsc_sandwich_server")
         try:
             fcsc_sandwich = rospy.ServiceProxy(
-                "fcsc_sandwich_server", ObjectMaskSrv)
+                "/fcsc/fcsc_sandwich_server", ObjectMaskSrv)
             resp = fcsc_sandwich(self.img_msg)
             rospy.logdebug("Done with fcsc sandwich parsing")
             return resp
