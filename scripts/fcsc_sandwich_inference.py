@@ -26,7 +26,7 @@ MODEL_DIR = os.path.join(ROOT_DIR, "models")
 FCSCSANDWICH_WEIGHTS_PATH = os.path.join(MODEL_DIR, "mask_rcnn_fcscsandwich_0030.h5")
 FCSCSANDWICH_DIR = os.path.join(ROOT_DIR, "data", "sandwich_data")
 IMAGE_DIR = os.path.join(ROOT_DIR, "images")
-TEST_IMAGE = os.path.join(IMAGE_DIR, "sandwich.jpg")
+TEST_IMAGE = os.path.join(IMAGE_DIR, "sandwich.png")
 if tf.test.is_gpu_available():
     DEVICE = "/gpu:0"
 else:
@@ -115,4 +115,4 @@ def main(test_val=True):
 
 
 if __name__ == '__main__':
-    main(test_val=True)
+    main(test_val=False)
