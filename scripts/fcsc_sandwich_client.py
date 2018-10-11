@@ -15,7 +15,7 @@ import rospy
 ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(os.path.realpath(__file__)), ".."))
 sys.path.append(ROOT_DIR)
 IMAGE_DIR = os.path.join(ROOT_DIR, "images")
-TEST_IMAGE = os.path.join(IMAGE_DIR, "sandwich.jpg")
+TEST_IMAGE = os.path.join(IMAGE_DIR, "sandwich.png")
 
 
 class FCSCSandwichClient():
