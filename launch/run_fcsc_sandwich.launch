@@ -6,4 +6,10 @@
       type="fcsc_sandwich_server.py"
       />
 
+  <node
+      name="sandwich_pose_node"
+      pkg="fcsc"
+      type="sandwich_pose_node"
+      />
+
 </launch>

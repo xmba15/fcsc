@@ -11,6 +11,8 @@ find_package(catkin REQUIRED COMPONENTS
   rospy
   sensor_msgs
   std_msgs
+  pcl_ros
+  pcl_conversions
 )
 
 find_package(PCL REQUIRED)
@@ -29,6 +31,7 @@ add_message_files(
 add_service_files(
   FILES
   ObjectMaskSrv.srv
+  SandwichPose.srv
 )
 
 ## Generate actions in the 'action' folder
@@ -84,7 +87,7 @@ catkin_package(
 ## Specify additional locations of header files
 ## Your package locations should be listed before other locations
 include_directories(
-# include
+include
   ${catkin_INCLUDE_DIRS}
   ${PCL_INCLUDE_DIRS}
 )
@@ -104,7 +107,8 @@ add_definitions(${PCL_DEFINITIONS})
 ## Declare a C++ executable
 ## With catkin_make all packages are built within a single CMake context
 ## The recommended prefix ensures that target names across packages don't collide
-# add_executable(${PROJECT_NAME}_node src/fcsc_node.cpp)
+
+add_executable(sandwich_pose_node src/sandwich_pose.cpp)
 
 ## Rename C++ executable without prefix
 ## The above recommended prefix causes long target names, the following renames the
@@ -117,6 +121,7 @@ add_definitions(${PCL_DEFINITIONS})
 # add_dependencies(${PROJECT_NAME}_node ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
 
 ## Specify libraries to link a library or executable target against
-# target_link_libraries(${PROJECT_NAME}_node
-#   ${catkin_LIBRARIES}
-# )
+target_link_libraries(sandwich_pose_node
+  ${catkin_LIBRARIES}
+  ${PCL_LIBRARIES}
+)

@@ -1,3 +1,4 @@
-sensor_msgs/PointCloud sandwich_pcl
+int8 mask_num
+sensor_msgs/PointCloud2[] sandwich_pcl
 ---
-geometry_msgs/Pose sandwich_pose
+geometry_msgs/PoseArray sandwich_pose
