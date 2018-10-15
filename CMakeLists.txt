@@ -25,6 +25,7 @@ add_message_files(
   FILES
   ObjectMask.msg
   ObjectMaskArray.msg
+  PointCloud2Array.msg
 )
 
 ## Generate services in the 'srv' folder
@@ -32,6 +33,7 @@ add_service_files(
   FILES
   ObjectMaskSrv.srv
   SandwichPose.srv
+  ImageAssembly.srv
 )
 
 ## Generate actions in the 'action' folder

@@ -76,7 +76,7 @@ bool PCAObjectPose::serviceCallback(fcsc::SandwichPoseRequest& req,
   for (int i = 0; i < mask_num; i++) {
     PointCloud::Ptr cloud(new PointCloud);
     pcl::PCLPointCloud2 pcl_cloud;
-    pcl_conversions::toPCL(req.sandwich_pcl[i], pcl_cloud);
+    pcl_conversions::toPCL(req.sandwich_pcl.pcl_arr[i], pcl_cloud);
     pcl::fromPCLPointCloud2(pcl_cloud, *cloud);
     geometry_msgs::Pose pose = this->getPose(cloud);
     posearr.poses.push_back(pose);

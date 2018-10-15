@@ -12,4 +12,10 @@
       type="sandwich_pose_node"
       />
 
+  <node
+      name="image_assembly_node"
+      pkg="fcsc"
+      type="image_assembly_server.py"
+      />
+
 </launch>
