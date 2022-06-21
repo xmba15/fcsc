@@ -1,7 +1,7 @@
 Cython==0.26.1
 jupyter==1.0.0
 matplotlib==2.2.2
-numpy==1.14.0
+numpy==1.22.0
 Pillow>=6.2.0
 tensorboard==1.6.0
 tensorflow
